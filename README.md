@@ -1,3 +1,3 @@
-# BreifBot
+# BriefBot
 
-### End To End Text Summarizer NLP Project
+### End To End Text Summarization NLP Project
